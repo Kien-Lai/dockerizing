@@ -1,4 +1,4 @@
-FROM node:7
+FROM node:8
 MAINTAINER Noddier 
 RUN mkdir -p /urs/src/app
 WORKDIR /urs/src/app
